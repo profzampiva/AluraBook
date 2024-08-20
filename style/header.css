@@ -6,8 +6,7 @@
     display: inline-block;
     background-repeat: no-repeat;
     background-position: center;
-    line-height: 24px;
-    vertical-align: center;
+    vertical-align: middle;
 
 }
 
@@ -21,8 +20,8 @@
 }
 
 .conteiner {
-    display: flex;
-    align-items: center;
+    display: grid;
+    place-items: center;
 }
 
 .conteiner__imagem {
