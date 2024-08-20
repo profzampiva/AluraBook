@@ -6,6 +6,7 @@
     display: inline-block;
     background-repeat: no-repeat;
     background-position: center;
+    line-height: 24px;
 }
 
 .cabeçalho {
