@@ -20,8 +20,8 @@
 }
 
 .conteiner {
-    display: grid;
-    place-items: center;
+    display: flex;
+    align-items: center;
 }
 
 .conteiner__imagem {
