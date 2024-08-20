@@ -20,7 +20,7 @@
 
 .conteiner {
     display: flex;
-    align-items: center;
+    align-items: middle;
 }
 
 .conteiner__imagem {
