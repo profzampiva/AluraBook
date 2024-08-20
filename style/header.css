@@ -6,6 +6,7 @@
     display: inline-block;
     background-repeat: no-repeat;
     background-position: center;
+    align-items: center;
 }
 
 .cabeçalho {
@@ -19,8 +20,6 @@
 .conteiner {
     display: flex;
     align-items: center;
-    
-    justify-content: center;
 }
 
 .conteiner__imagem {
