@@ -29,6 +29,7 @@
     position: absolute;
     top: 100%;
     width: 60vw;
+    padding: 10px;
 }
 
 .container__botao:checked~.lista-menu {
